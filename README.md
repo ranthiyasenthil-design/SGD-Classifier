@@ -58,10 +58,11 @@ print(cm)
 ## Output:
 Head:
 <img width="827" height="232" alt="image" src="https://github.com/user-attachments/assets/a99c89ce-6e47-4482-8731-65820c97ed26" />
+
 Accuracy:
 <img width="195" height="29" alt="image" src="https://github.com/user-attachments/assets/a27200c1-5458-4fb9-b44e-9782ed9995ce" />
-Confusion Matrix:
 
+Confusion Matrix:
 <img width="210" height="110" alt="image" src="https://github.com/user-attachments/assets/623270a4-189c-4cb9-810b-a58bed7a7827" />
 
 
